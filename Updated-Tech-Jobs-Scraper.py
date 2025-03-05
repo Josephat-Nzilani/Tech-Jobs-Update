@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar  1 13:54:03 2025
-
-@author: njosp
-"""
 
 import csv
 import time
