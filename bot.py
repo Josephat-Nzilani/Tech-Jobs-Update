@@ -11,7 +11,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # Your Telegram Bot Token (get from @BotFather)
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "YOUR_BOT_TOKEN_HERE")
+TELEGRAM_TOKEN = os.getenv("7019130117", "AAGFCr1MKw1s137_mVJ7e3dQiY2CONdPE-0")
 
 def scrape_jobs():
     """Scrapes job listings from the website"""
@@ -166,3 +166,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
